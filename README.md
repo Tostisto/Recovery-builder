@@ -1,0 +1,1 @@
+![Orange-Fox](https://github.com/tostisto/Recovery-builder/actions/workflows/recovery.yml/badge.svg)
